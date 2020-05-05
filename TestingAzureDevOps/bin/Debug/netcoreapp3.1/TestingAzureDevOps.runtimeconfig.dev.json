@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ragit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ragit\\.nuget\\packages"
+    ]
+  }
+}

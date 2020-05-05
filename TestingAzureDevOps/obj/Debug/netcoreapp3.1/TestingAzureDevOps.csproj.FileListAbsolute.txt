@@ -1,0 +1,17 @@
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.exe
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.deps.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.runtimeconfig.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.runtimeconfig.dev.json
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.dll
+C:\DevOps\Demo\New folder\TestingAzureDevOps\bin\Debug\netcoreapp3.1\TestingAzureDevOps.pdb
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\staticwebassets\TestingAzureDevOps.StaticWebAssets.Manifest.cache
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\staticwebassets\TestingAzureDevOps.StaticWebAssets.xml
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.MvcApplicationPartsAssemblyInfo.cache
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.AssemblyInfoInputs.cache
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.AssemblyInfo.cs
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.RazorTargetAssemblyInfo.cache
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.dll
+C:\DevOps\Demo\New folder\TestingAzureDevOps\obj\Debug\netcoreapp3.1\TestingAzureDevOps.pdb
